@@ -171,8 +171,19 @@ Nettoyage, rechargement ou contrôle qualité si nécessaire.
 ## Auteurs
 Ce projet a été réalisé par :
 
-* Wossan
+Emma: Import & Structure
+Création de la base linkedin
+Configuration du stage S3
+Définition des formats de fichiers
+Commandes COPY INTO
 
-* Arnaud
+Arnaud: Modélisation & Transformation
+Création des tables
+Transformations SQL (cohérence, intégrité)
+Création des vues utilisées par les graphiques
 
-* Nelly
+Nelly :Analyse & Visualisation
+Analyses (Top 10, répartitions)
+Code Streamlit (graphes, interface)
+Intégration dans Snowflake
+Tous contribuent au README.md + commentaires + dépôt GitHub final.
