@@ -167,3 +167,12 @@ SELECT COUNT(*) FROM job_industries;
 SELECT COUNT(*) FROM job_postings jp JOIN job_industries ji ON jp.job_id = ji.job_id;
 
 Nettoyage, rechargement ou contrôle qualité si nécessaire.
+
+## Auteurs
+Ce projet a été réalisé par :
+
+* Wossan
+
+* Arnaud
+
+* Nelly
